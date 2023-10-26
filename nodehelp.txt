@@ -2,3 +2,5 @@
 npm init 
 //INICIALIZAR COMPLETAMENTE NDOE
 npm init -y
+// INSTALAR CARPETAS DE NODE
+npm i express
