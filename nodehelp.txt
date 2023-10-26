@@ -1,2 +1,4 @@
 //INICIARLIZAR NODE 
 npm init 
+//INICIALIZAR COMPLETAMENTE NDOE
+npm init -y
