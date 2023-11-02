@@ -1,0 +1,4 @@
+npm init -y  (crea el proyecto)
+npm i express (permite usar node y todo lo de servidores)
+npm i hbs (instala las vistas de node que son hbs)
+npm i path (para instalar path y permitir usar hbs en las rutas que creemos en index.js)
